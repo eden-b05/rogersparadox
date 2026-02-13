@@ -2,11 +2,8 @@
 title: 'Rogers'' paradox: An agent-based model in R'
 author: "Alex Mesoudi"
 output: 
-  pdf_document:
-    fig_caption: yes
-    fig_height: 5
-    fig_width: 8
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+  html_document
+date: '12 February, 2026'
 
 ---
 
